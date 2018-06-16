@@ -27,7 +27,7 @@ body {
 
 .map {
   width: 420px;
-  top: 64px;
+  top: 65px;
 }
 
 
@@ -41,13 +41,13 @@ h1 {
   margin-right: 20px;
 }
 /* This ended up becoming the direction div class */
-h2 {
+/* h2 {
   font-weight: bold;
   font-size: 1em;
   letter-spacing: .3px;
   text-transform: uppercase;
   line-height: 1.6em;
-}
+} */
 
 h3 {
   font-weight: semi-bold;
@@ -60,11 +60,26 @@ h3 {
     letter-spacing: .3px;
     text-transform: uppercase;
     line-height: .5em;
-    width: 100%;
+    width: 375;
     padding-left: 16px;
     padding-bottom: 8px;
     padding-top: 16px;
+    border-top-style: solid;
+    border-top-color: #08678F;
+    border-top-width: 1px;
 
+  }
+
+  .top {
+    font-weight: bold;
+    font-size: 1em;
+    letter-spacing: .3px;
+    text-transform: uppercase;
+    line-height: .5em;
+    width: 375;
+    padding-left: 16px;
+    padding-bottom: 8px;
+    padding-top: 16px;
   }
 
 .arrow-left {
@@ -72,9 +87,6 @@ h3 {
   float: left;
 }
 .times {
-  border-bottom-style: solid;
-  border-bottom-color: #08678F;
-  border-bottom-width: 1px;
   padding: 16px;
 }
 
