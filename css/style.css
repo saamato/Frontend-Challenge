@@ -40,7 +40,7 @@ h1 {
   padding: 14px;
   margin-right: 20px;
 }
-
+/* This ended up becoming the direction div class */
 h2 {
   font-weight: bold;
   font-size: 1em;
@@ -48,6 +48,7 @@ h2 {
   text-transform: uppercase;
   line-height: 1.6em;
 }
+
 h3 {
   font-weight: semi-bold;
   font-size: 17px;
