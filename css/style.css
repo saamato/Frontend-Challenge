@@ -69,7 +69,8 @@ h3 {
     border-top-width: 1px;
 
   }
-
+/* This is for the very first directional
+div element so I could get rid of the line at the top */
   .top {
     font-weight: bold;
     font-size: 1em;
