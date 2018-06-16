@@ -56,7 +56,7 @@ h3 {
 
 .direction {
     font-weight: bold;
-    font-size: 1em;
+    font-size: 1.05em;
     letter-spacing: .3px;
     text-transform: uppercase;
     line-height: .5em;
@@ -73,7 +73,7 @@ h3 {
 div element so I could get rid of the line at the top */
   .top {
     font-weight: bold;
-    font-size: 1em;
+    font-size: 1.05em;
     letter-spacing: .3px;
     text-transform: uppercase;
     line-height: .5em;
